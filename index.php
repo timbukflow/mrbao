@@ -11,16 +11,13 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Biltec AG | Ihre CNC-Profis</title>
+    <title>Mr Bao | Asian delivery°</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="BILTEC AG - Ihr verlässlicher Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und kreative Lösungen mit modernster Technologie, Wirtschaftlichkeit und Nachhaltigkeit.">
     <meta name="keywords" content="CNC-Fertigung, Konstruktion, Messtechnik, Baugruppenmontage, Druckzubehör, kreative Lösungen, moderne Technologie, Wirtschaftlichkeit, Nachhaltigkeit, Verlässlichkeit, Flexibilität, Biltec">
-    <meta name="author" content="Biltec AG">
-    <link rel="canonical" href="https://biltec.ch" />
-
-    <link rel="alternate" hreflang="de" href="https://biltec.ch/" />
-    <link rel="alternate" hreflang="en" href="https://biltec.ch/en" />
+    <meta name="author" content="Mr-Bao">
+    <link rel="canonical" href="https://mr-bao.ch/" />
 
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="public, max-age=3600" />

@@ -1,25 +1,15 @@
-/* @license | MyFonts Webfont Build ID 3867246 */
-
-@font-face {
-  font-family: "AllianceNo2Regular";
-  src: url('font/AllianceNo2Regular/font.woff2') format('woff2'), url('webFonts/AllianceNo2Regular/font.woff') format('woff');
-}
-@font-face {
-  font-family: "AllianceNo2Medium";
-  src: url('font/AllianceNo2Medium/font.woff2') format('woff2'), url('webFonts/AllianceNo2Medium/font.woff') format('woff');
-}
-@font-face {
-  font-family: "AllianceNo2SemiBold";
-  src: url('font/AllianceNo2SemiBold/font.woff2') format('woff2'), url('webFonts/AllianceNo2SemiBold/font.woff') format('woff');
-}
+/* 
+  Titel: Mr-Bao
+  Version: 1.0
+  Autor: Ivo Schwizer - Schwizer Design GmbH
+*/
 
 :root {
-  --darkblue: #002155;
-  --lightblue: #0066FF;
-  --lightblueactiv: #4690ff;
-  --lightgrey: #F0F2F4;
-
-  --fontcolor: #2D405C;
+  --mrbao-green: #AEDA94;
+  --mrbao-yellow: #FFFCA9;
+  --mrbao-orange: #FC7246;
+  --mrbao-brown: #564A45;
+  --mrbao-light: #FEF7E6;
 
   --fontnr: 170px;
   --fontbig: 130px;
@@ -44,8 +34,9 @@
 body {
   margin: 0;
   padding: 0;
-  background: var(--darkblue);
+  background: var(--mrbao-green);
 }
+
 body.fixed {
   width: 100%;
   height: 100%;
