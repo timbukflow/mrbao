@@ -155,13 +155,11 @@ Version 1.0
                 <button>Bestelle Dein Essen!</button>
             </a>
         </div>
-
-          
     </header>
 
-    <main class="positiv">
-
-        <div class="headerC ">
+    <main> 
+        <!-- Intro -->
+        <div class="headerC positiv ">
             <img src="img/bg-yellow-sud.svg" alt="bg">
             <div class="header">
                 <div class="headerintro">
@@ -191,37 +189,92 @@ Version 1.0
                 </div>
             </div>
             <img src="img/bg-yellow-nord.svg" alt="bg">
+            
+            <!-- CTA -->
+            <div class="cta-first center">
+                <a href="https://mr-bao.simplywebshop.ch/menu">
+                    <button>Bestelle Dein Essen!</button>
+                </a>
+            </div>
         </div>
-
-        <div class="lunch">
+        
+        <!-- Lunch -->
+        <div class="lunch positiv">
             <h1 class="big">Ready <br> for lunch</h1>
             <div class="cont50">
                 <div class="cont50text">
-                    <h2>Mittagsbuffet</h2>
+                    <h3>Mittagsbuffet</h3>
                     <p>Schnappt euch euren frischen asiatischen Power-Kick in Heerbrugg! Von Montag bis Freitag verwöhnen wir euch mit unserem Asia-Mittagsbuffet. Kommt vorbei und geniesst!</p>
-                    <div>
-                        MR. BAO Heerbrugg
+                    <div class="cta-second">
+                        <a href="mailto:deine-email@example.com" >
+                            <img src="img/mr-bao-marker.svg" alt="mr. bao standort marker">
+                            <h3>Mr.Bao <br> Heerbrugg</h3>
+                        </a>
                     </div>
                 </div>
-                <div class="cont50img">
-                    <img src="img/mr-bao-platzhalter.jpg" alt="Image 3">
-                </div>
+                <div class="cont50img mittagsbuffetimg"></div>
             </div>
             <div class="cont50">
-                <div class="cont50img">
-                    <img src="img/mr-bao-platzhalter.jpg" alt="Image 3">
-                </div>
+                <div class="cont50img mittagsbuffetimg"></div>
                 <div class="cont50text">
-                    <h2>Mittagsbuffet</h2>
-                    <p>Schnappt euch euren frischen asiatischen Power-Kick in Heerbrugg! Von Montag bis Freitag verwöhnen wir euch mit unserem Asia-Mittagsbuffet. Kommt vorbei und geniesst!</p>
-                    <div>
-                        MR. BAO Heerbrugg
+                    <h3>Gruppenangebote</h3>
+                    <p>
+                        Gemeinsam in Gruppen zu essen fördert den Teamspirit. Für Unternehmen, Workshops, Kongresse oder einfach mit Arbeitskollegen bieten wir individuelle Mittagsangebote. Interessiert?
+                    </p>
+                    <div class="cta-second">
+                        <a href="mailto:deine-email@example.com" >
+                            <img class="mailicon" src="img/mr-bao-mail.svg" alt="mr. bao kontakt mail">
+                            <h3>Anfrage an <br> Mr.Bao</h3>
+                        </a>
                     </div>
                 </div>
-                
             </div>
-
         </div>
+
+        <!-- Catering -->
+        <div class="catering">
+            <img src="img/bg-orange-sud.svg" alt="bg">
+            <img class="logo" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-logo.svg" alt="mr. bao asiatisch bestellen logo">
+            <h1 class="big">Asian <br> Catering</h1>
+            <div class="cont50">
+                <div class="cont50text">
+                    <h3>Mittagsbuffet</h3>
+                    <p>
+                        Peppen Sie Ihre Events auf, ob Firmenparty oder Vereinsessen, mit einem Schuss asiatischer Küche von Mr. Bao! Wir garantieren für glückliche Gäste mit vollen Bäuchen dank frisch zubereiteter Asiatischer-Köstlichkeiten.
+                        <br><br>
+                        Machen Sie Ihr Event zum unvergesslichen Highlight – Sie planen, wir rocken die Küche!
+                    </p>
+                    <div class="cta-second">
+                        <a href="mailto:deine-email@example.com" >
+                            <img class="mailicon" src="img/mr-bao-mail-neg.svg" alt="mr. bao mail">
+                            <h3>Anfrage an <br> Mr.Bao</h3>
+                        </a>
+                    </div>
+                </div>
+                <div class="cont50img mittagsbuffetimg"></div>
+            </div>
+            <img src="img/bg-orange-nord.svg" alt="bg">
+        </div>
+
+        <!-- über uns -->
+        <div class="mrbao positiv">
+            <h1 class="big">MR. BAO</h1>
+            <div class="headerintro">
+                    <h1>
+                    Hast du schon gegessen?
+                    </h1>
+                    <h2 class="headline">
+                    Das ist meistens die erste Frage die man begegnet in der asiatischen Kultur. Damit verbindet man das Wohlbefinden des Gegenübers. Deswegen haben wir uns als Ziel gesetzt mit unseren frischen und geschmacksreichen Gerichten dich nicht nur satt zu machen, sondern auch dein Wohlbefinden zu steigern. Unser Essen ist mehr als nur ein Essen!
+                    </h2>
+                </div>
+            <div class="cont100">
+                <video autoplay loop>
+                <source src="film/testt.mp4" type="video/mp4">
+                Dein Browser unterstützt das Video-Tag nicht.
+            </video>
+            </div>
+        </div>
+
 
     </main>
 

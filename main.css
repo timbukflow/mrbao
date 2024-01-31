@@ -14,7 +14,8 @@
 
   --fontsuperbig: 150px;
   --fontbig: 50px;
-  --fonttext: 30px;
+  --fonttitle: 32px;
+  --fonttext: 26px;
 
   --grid: 1600px;
   --gridfull: 1800px;
@@ -69,13 +70,19 @@ h1.big {
   margin: 150px 0 50px;
 }
 
+.catering h1.big {
+  margin: 20px 0 50px;
+}
+
 h3 {
+  font-size: var(--fonttitle);
   font-weight: 700;
+  line-height: 1.1;
   margin: 30px 0 0 10px;
 }
 
 h4 {
-  margin: 0;
+  margin: 10px 0;
 }
 
 .positiv h1,
@@ -301,9 +308,59 @@ header {
 .cta-first {
   position: absolute;
   z-index: 99;
-  right: 15%;
+  right: 20%;
   bottom: 50px;
   transform: rotate(-5deg);
+}
+.cta-first.center {
+  position: absolute;
+  z-index: 99;
+  right: auto;
+  left: 50%;
+  transform: translate(-50%) rotate(-5deg);
+  bottom: -30px;
+}
+
+.cta-second {
+  display: inline-block;
+}
+.cta-second a {
+  display: flex;
+  gap:10px;
+  transform: rotate(-5deg);
+  transition: transform 0.2s ease-in-out;
+}
+.cta-second img {
+  width: 50px;
+}
+.cta-second img.mailicon {
+  width: 90px;
+}
+
+.cta-second h3 {
+  text-align: left;
+}
+
+.cta-second:hover {
+  animation: shake 0.6s ease-in-out infinite;
+}
+
+@keyframes shake {
+  0% {
+    transform: translate(5px, 0) rotate(5deg);
+  }
+  25% {
+    transform: translate(-5px, 0) rotate(-5deg);
+  }
+  50% {
+    transform: translate(5px, 0) rotate(5deg);
+  }
+  75% {
+    transform: translate(-5px, 0) rotate(-5deg);
+  }
+  100% {
+    transform: translate(5px, 0) rotate(5deg);
+  }
 }
 
 /*----------------------------------
@@ -318,6 +375,24 @@ main {
 }
 .lunch {
   background-color: var(--mrbao-light);
+  width: 100%;
+  overflow: hidden;
+}
+.catering {
+  background-color: var(--mrbao-orange);
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.catering img.logo {
+  width: 300px;
+}
+.mrbao {
+  background-color: var(--mrbao-yellow);
+  width: 100%;
+  overflow: hidden;
 }
 
 .cont50 {
@@ -328,17 +403,28 @@ main {
 .cont50text {
   padding: 100px;
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
+
 .cont50img {
   width: 100%;
   overflow: hidden;
   border-radius: 40%;
   transform: rotate(-15deg);
+  background-size: cover;
+  background-position: center;
 }
+.mittagsbuffetimg {background-image: url('img/mr-bao-platzhalter.jpg');}
+
 .cont50img img {
   width: 100%;
 }
 
+video {
+  width: 100%;
+}
 
 
 /*----------------------------------
