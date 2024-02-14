@@ -578,7 +578,7 @@ footer li.subtitle {
 @media (max-width: 820px) {
   /* Basic */
   :root {
-    --fontsuperbig: 60px;
+    --fontsuperbig: 55px;
     --fontbig: 32px;
     --fonttitle: 26px;
     --fonttext: 21px;
