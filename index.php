@@ -189,7 +189,7 @@ Version 1.0
                     </div>
                 </div>
             </div>
-            <img class="bg" src="img/bg-yellow-nord.svg" alt="bg">
+            <img src="img/bg-yellow-nord.svg" alt="bg">
             
             <!-- CTA -->
             <div class="cta-first center">
