@@ -81,6 +81,10 @@ h3 {
   margin: 30px 0 0 10px;
 }
 
+.location h3 {
+  margin: 0;
+}
+
 h4 {
   margin: 10px 0;
 }
@@ -89,38 +93,41 @@ h4 {
 .positiv h2,
 .positiv h3,
 .positiv h4,
-.positiv p {
+.positiv p,
+.positiv ul,
+.positiv li,
+.positiv a {
  color: var(--mrbao-brown);
 }
-
 
 button {
   background-color: var(--mrbao-orange);
   font-weight: 700;
-  border: none;
   line-height: 1;
   cursor: pointer;
   overflow: hidden;
   outline: none;
+  border: 4px solid white;
   margin: 0;
   padding: 30px 50px;
   border-radius: 100px;
-  transition: padding 0.5s, background-color 0.5s;
-  filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.3));
+  transition: border 0.3s ease-in-out;
+  filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.2));
 }
-
 button:hover {
-  padding: 40px 60px;
+  border: 8px solid white;
 }
 
-button.white {
-  background-color: white;
-  transition: padding 0.5s;
+button.mpreis {
+  background-color: #A0CF54;
+  border: none;
+  position: absolute;
+  cursor: auto;
+  left: 0;
+  bottom: 50px;
+  font-size: var(--fontbig);
+  transform: rotate(-15deg);
 }
-a button.white {
-  color: var(--lightblue);
-}
-
 
 
 /*----------------------------------
@@ -133,11 +140,11 @@ nav {
   width: 100%;
   height: auto;
   margin: 0 auto;
-  padding: 30px 30px;
+  padding: 20px 30px;
   top: 0;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   background-color: var(--darkblue);
   transition: top 0.5s ease-in-out;
 }
@@ -145,19 +152,27 @@ nav {
 .logoC, .navbar, .location {
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 15px;
+}
+.navbar {
+  gap: 30px;
 }
 
 .logoC img {
   width: 120px;
+  filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.15));
 }
 .logoC h1,
 .logoC h2 {
   margin: 0;
   text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: left;
+  filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.15));
 }
 .logoC h1 {
   text-transform: uppercase;
+  line-height: 1;
 }
 
 /*----------------------------------
@@ -203,72 +218,47 @@ header {
 }
 .anis {
   position: absolute;
-  left: 20%;
-  top: 90%;
+  left: 35%;
+  top: 15%;
   width: 150px;
   filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.3));
-  animation: anis 3s ease-in-out infinite alternate; /* Animationseigenschaften */
 }
 
-@keyframes anis {
-  0% {
-    transform: translate(-50%, -50%) scale(1) rotate(0deg);  /* 100% Größe */
-  }
-  100% {
-    transform: translate(-50%, -50%) scale(1.2) rotate(30deg); /* 120% Größe */
-  }
-}
 .chili {
   position: absolute;
-  left: 5%;
-  top: 70%;
-  width: 35%;
-  filter: drop-shadow(0px 10px 10px rgba(0, 0, 0, 0.4));
-  animation: chili 3s ease-in-out infinite alternate; /* Animationseigenschaften */
+  transform: rotate(45deg);
+  left: 25%;
+  bottom: 10%;
+  width: 22%;
+  filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.3));
 }
 
-@keyframes chili {
-  0% {
-    transform: translate(-50%, -50%) scale(1) rotate(0deg); /* 100% Größe */
-  }
-  100% {
-    transform: translate(-50%, -50%) scale(1.2) rotate(-10deg); /* 120% Größe */
-  }
-}
 .leave01 {
   position: absolute;
-  left: 95%;
-  top: 75%;
-  width: 15%;
+  right: -10%;
+  top: 52%;
+  width: 18%;
   filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.3));
-  animation: leave01 3s ease-in-out infinite alternate;
 }
 
-@keyframes leave01 {
-  0% {
-    transform: translate(-50%, -50%) scale(1) rotate(0deg);
-  }
-  100% {
-    transform: translate(-50%, -50%) scale(1.2) rotate(-15deg);
-  }
-}
 .leave02 {
   position: absolute;
-  left: 45%;
-  top: 10%;
-  width: 15%;
+  right: 25%;
+  transform: rotate(-95deg);
+  top: 48%;
+  width: 10%;
   filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.3));
-  animation: leave02 3s ease-in-out infinite alternate; /* Animationseigenschaften */
+}
+.leave03 {
+  position: absolute;
+  left: -60px;
+  transform: rotate(-265deg);
+  top: 26%;
+  width: 20%;
+  filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.3));
 }
 
-@keyframes leave02 {
-  0% {
-    transform: translate(-50%, -50%) scale(1) rotate(180deg);
-  }
-  100% {
-    transform: translate(-50%, -50%) scale(1.2) rotate(190deg); /* 120% Größe */
-  }
-}
+
 
 /*----------------------------------
   Slider
@@ -295,10 +285,9 @@ header {
 
 .slide-desc {
   position: absolute;
-  transform: rotate(-15deg);
-  width: 50%;
-  top: 20px;
-  left: 50px;
+  width: 60%;
+  top: 0px;
+  left: 10%;
   filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.3));
 }
 
@@ -369,9 +358,14 @@ header {
 main {
   width: 100%;
   position: relative;
-  top: -150px;
   display: flex;
   flex-direction: column;
+}
+.yellow {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  display: flex;
 }
 .lunch {
   background-color: var(--mrbao-light);
@@ -392,6 +386,8 @@ main {
 .mrbao {
   background-color: var(--mrbao-yellow);
   width: 100%;
+  display: flex;
+  flex-direction: column;
   overflow: hidden;
 }
 
@@ -409,14 +405,11 @@ main {
 }
 
 .cont50img {
+  position: relative;
   width: 100%;
-  overflow: hidden;
-  border-radius: 40%;
-  transform: rotate(-15deg);
-  background-size: cover;
-  background-position: center;
+  margin: 20px;
 }
-.mittagsbuffetimg {background-image: url('img/mr-bao-platzhalter.jpg');}
+
 
 .cont50img img {
   width: 100%;
@@ -430,59 +423,57 @@ video {
 /*----------------------------------
   Footer
 -----------------------------------*/
-
-.footercont {
+footer {
+  background-color: var(--mrbao-yellow);
+  padding-top: 150px;
+}
+.footerC {
   display: flex;
-  position: relative;
-  justify-content: center;
   flex-direction: row;
-  margin: 0 30px 30px;
-  border-top: solid 1px #ffffff;
+  justify-content: center;
+  text-align: left;
+  gap: 100px;
+  margin: 0 20%;
+}
+footer h1 {
+  text-align: left;
+  line-height: 1;
 }
 
-.footercont div {
-  padding: 30px 10px;
-  flex-basis: 100%;
+.footerT h1 {
+  margin: 0;
+  margin-top: 10px;
 }
 
-.footerfirst {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-.totop {
-  font-size: var(--fonttitle);
-}
-
-footer a,
-footer li,
-footer p {
-  font-size: var(--fontsmall);
-}
 footer ul {
-  padding-left: 0;
-  margin: 0;  
+  padding: 0;
+  padding-bottom: 20px;
+  border-bottom: solid 2px var(--mrbao-brown);
 }
-footer li a {
-  line-height: 2;
+footer li {
+  text-align: left;
+}
+footer li.title {
+  font-weight: 700;
+}
+footer li.subtitle {
+ padding-top: 15px;
+ font-weight: 600;
 }
 
-.footernav {
+.follow {
   display: flex;
-  gap: 30px;
+  align-items: center;
+  gap: 10px;
+  padding: 30px;
 }
-.footernav ul {
-  flex-basis: 100%;
+.follow h3 {
+  margin: 0;
+}
+.follow img {
+  width: 50px;
 }
 
-.footernav .group {
-  margin-top: 25px;
-}
-.footercopy {
-  margin: 0 30px;
-  border-top: solid 1px #ffffff;
-  padding: 10px 10px;
-}
 
 /*----------------------------------
     Impressum Datenschutz

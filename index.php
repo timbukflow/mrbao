@@ -11,11 +11,12 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Mr. Bao | Asian Kitchen | Take away | Asiatisch bestellen </title>
+    <title>Mr. Bao | Asian Kitchen | Take away | Asiatisch bestellen | Herrbrugg und Amriswil </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="......">
-    <meta name="keywords" content=".........">
+    <meta name="description" content="Erleben Sie mit MR. BAO das authentische Aroma Asiens direkt im Rheintal und Thurgau. Unser Delivery- und Take-Away-Service bietet frische und gesunde asiatische Geschmackserlebnisse in Heerbrugg und Amriswil. Bestellen Sie jetzt Ihr asiatisches Take-Away und geniessen Sie die Vielfalt der asiatischen Küche bequem von zu Hause aus. Entdecken Sie auch unser Angebot für Mittagsbuffet in Heerbrugg sowie Catering-Services für Firmen- und Vereinsveranstaltungen.">
+    <meta name="keywords" content="MR. BAO, authentisches Aroma Asiens, Rheintal, Thurgau, Delivery-Service, Take-Away-Service, frisch, gesund, asiatische Geschmackserlebnisse, Heerbrugg, Amriswil, asiatisches Take-Away, Vielfalt der asiatischen Küche, Mittagsbuffet, Catering-Services, Firmenveranstaltungen, Vereinsveranstaltungen">
+
     <meta name="author" content="Mr-Bao">
     <link rel="canonical" href="https://mr-bao.ch/" />
 
@@ -23,16 +24,11 @@ Version 1.0
     <meta http-equiv="cache-control" content="public, max-age=3600" />
     <meta http-equiv="pragma" content="cache" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#4690ff">
-    <meta name="msapplication-TileColor" content="#002155">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
 
     <meta property="og:title" content="Mr. Bao | Asian Kitchen">
-    <meta property="og:description" content="......">
+    <meta property="og:description" content="Erleben Sie mit MR. BAO das authentische Aroma Asiens direkt im Rheintal und Thurgau. Unser Delivery- und Take-Away-Service bietet frische und gesunde asiatische Geschmackserlebnisse in Heerbrugg und Amriswil. Bestellen Sie jetzt Ihr asiatisches Take-Away und geniessen Sie die Vielfalt der asiatischen Küche bequem von zu Hause aus. Entdecken Sie auch unser Angebot für Mittagsbuffet in Heerbrugg sowie Catering-Services für Firmen- und Vereinsveranstaltungen.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://mr-bao.ch">
     <meta property="og:image" content="https://mr-bao.ch/img/og-image.jpg">
@@ -40,7 +36,7 @@ Version 1.0
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Mr. Bao | Asian Kitchen">
-    <meta name="twitter:description" content="......">
+    <meta name="twitter:description" content="Erleben Sie mit MR. BAO das authentische Aroma Asiens direkt im Rheintal und Thurgau. Unser Delivery- und Take-Away-Service bietet frische und gesunde asiatische Geschmackserlebnisse in Heerbrugg und Amriswil. Bestellen Sie jetzt Ihr asiatisches Take-Away und geniessen Sie die Vielfalt der asiatischen Küche bequem von zu Hause aus. Entdecken Sie auch unser Angebot für Mittagsbuffet in Heerbrugg sowie Catering-Services für Firmen- und Vereinsveranstaltungen.">
     <meta name="twitter:image" content="https://mr-bao.ch/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
@@ -53,11 +49,10 @@ Version 1.0
     <link rel="stylesheet" href="main.css" />
 
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
-  <script src="main.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script src="main.js"></script>
     
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -67,7 +62,7 @@ Version 1.0
         "@context": "http://schema.org",
         "@type": "Organization",
         "name": "Mr. Bao - Asian Kitchen",
-        "description": "...........",
+        "description": "Erleben Sie mit MR. BAO das authentische Aroma Asiens direkt im Rheintal und Thurgau. Unser Delivery- und Take-Away-Service bietet frische und gesunde asiatische Geschmackserlebnisse in Heerbrugg und Amriswil. Bestellen Sie jetzt Ihr asiatisches Take-Away und geniessen Sie die Vielfalt der asiatischen Küche bequem von zu Hause aus. Entdecken Sie auch unser Angebot für Mittagsbuffet in Heerbrugg sowie Catering-Services für Firmen- und Vereinsveranstaltungen.",
         "url": "https://mr-bao.ch",
         "contactPoint": {
             "@type": "ContactPoint",
@@ -101,14 +96,14 @@ Version 1.0
             </div>
         </a>
         <div class="navbar">
-            <div class="location">
+            <a href="https://maps.app.goo.gl/DbkCNaQ5RE7dJ1dt9" target="_blank"  class="location">
                 <img src="img/mr-bao-marker.svg" alt="mr. bao standort marker">
                 <h3>Heerbrugg</h3>
-            </div>
-            <div class="location">
+            </a>
+            <a href="https://maps.app.goo.gl/dFuKWo15jHghgBF49" target="_blank" class="location">
                 <img src="img/mr-bao-marker.svg" alt="mr. bao standort marker">
                 <h3>Amriswil</h3>
-            </div>
+            </a>
         </div>
     </nav>
 
@@ -116,9 +111,11 @@ Version 1.0
 
         <!-- Food Animation -->
         <div class="animationC">
-            <img class="chili" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-chili.webp" alt="Image 1">
-            <img class="leave01" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-thai-basil-01.webp" alt="Image 1">
-            <img class="leave02" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-thai-basil-01.webp" alt="Image 1">
+            <img class="chili" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-chili-n.webp" alt="chili">
+            <img class="leave01" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-thai-basil-01.webp" alt="thai-basil">
+            <img class="leave02" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-thai-basil-01.webp" alt="thai-basil">
+            <img class="leave03" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-thai-basil-01.webp" alt="thai-basil">
+            <img class="anis" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-anis-stern.webp" alt="anis stern">
         </div>
 
         <!-- Food Slider -->
@@ -136,35 +133,39 @@ Version 1.0
                 <img class="slide-desc" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-suess-sauer.svg" alt="mr-bao-asiatisch-take-away-bestellen-delivery-suess-sauer">
             </div>
             <div class="slick-slide">
-                <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-crevettensalat.webp" alt="mr-bao-asiatisch-take-away-bestellen-delivery-crevettensalat">
-                <img class="slide-desc" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-crevettensalat.svg" alt="mr-bao-asiatisch-take-away-bestellen-delivery-crevettensalat">
+                <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-pfeffer-rindfleisch.webp" alt="mr-bao-asiatisch-take-away-bestellen-delivery-pfeffer-rindfleisch">
+                <img class="slide-desc" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-pfeffer-rind.svg" alt="mr-bao-asiatisch-take-away-bestellen-delivery-pfeffer-rind">
             </div>
             <div class="slick-slide">
-                <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-ente-kantonesische-art.webp" alt="mr-bao-asiatisch-take-away-bestellen-delivery-ente-kantonesische-art">
+                <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-satay.webp" alt="mr-bao-asiatisch-take-away-bestellen-delivery-satay">
                 <img class="slide-desc" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-satay.svg" alt="mr-bao-asiatisch-take-away-bestellen-delivery-satay">
             </div>
             <div class="slick-slide">
-                <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-szechuan.webp" alt="mr-bao-asiatisch-take-away-bestellen-delivery-szechuan">
-                <img class="slide-desc" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-satay.svg" alt="mr-bao-asiatisch-take-away-bestellen-delivery-satay">
+                <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-suess-sauer.webp" alt="mr-bao-asiatisch-take-away-bestellen-delivery-suess-sauer">
+                <img class="slide-desc" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-suess-sauer.svg" alt="mr-bao-asiatisch-take-away-bestellen-delivery-suess-sauer">
             </div>
+            
         </div>
 
         <!-- CTA -->
         <div class="cta-first">
-            <a href="https://mr-bao.simplywebshop.ch/menu">
+            <a href="https://mr-bao.simplywebshop.ch">
                 <button>Bestelle Dein Essen!</button>
             </a>
+        </div>
+
+        <div class="yellow">
+            <img src="img/bg-yellow-sud.svg" alt="bg">
         </div>
     </header>
 
     <main> 
         <!-- Intro -->
         <div class="headerC positiv ">
-            <img src="img/bg-yellow-sud.svg" alt="bg">
             <div class="header">
                 <div class="headerintro">
                     <h1>
-                        Erlebe mit MR. BAO das authentische Aroma Asiens, direkt im Rheintal und Thurgau
+                        Erlebe mit MR. BAO das authentische Aroma Asiens, direkt im Rheintal und Thurgau.
                     </h1>
                     <h2 class="headline">
                         Unser Delivery- und Take-Away-Service bietet frische, authentische asiatische Geschmackserlebnisse.
@@ -172,18 +173,18 @@ Version 1.0
                 </div>
                 <div class="headermenuC">
                     <div class="headermenu">
-                        <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-pfeffer-rindfleisch.webp" alt="Image 3">
-                        <h3>Ente kantonesisch</h3>
-                        <h4>ab 16.00 CHF</h4>
+                        <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-ente-kantonesische-art.webp" alt="mr-bao-asiatisch-take-away-bestellen-delivery-ente-kantonesische-art">
+                        <h3>Ente nach <br>kantonesischer Art</h3>
+                        <h4>ab 22.50 CHF</h4>
                     </div>
                     <div class="headermenu">
-                        <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-pfeffer-rindfleisch.webp" alt="Image 3">
-                        <h3>Ente kantonesisch</h3>
-                        <h4>ab 16.00 CHF</h4>
+                        <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-crevettensalat.webp" alt="mr-bao-asiatisch-take-away-bestellen-delivery-crevettensalat">
+                        <h3>Thailändischer Crevettensalat </h3>
+                        <h4>9.00 CHF</h4>
                     </div>
                     <div class="headermenu">
-                        <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-pfeffer-rindfleisch.webp" alt="Image 3">
-                        <h3>Ente kantonesisch</h3>
+                        <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-gebratene-nudeln.webp" alt="mr-bao-asiatisch-take-away-bestellen-delivery-gebratene-nudeln">
+                        <h3>Gebratene Nudeln </h3>
                         <h4>ab 16.00 CHF</h4>
                     </div>
                 </div>
@@ -192,7 +193,7 @@ Version 1.0
             
             <!-- CTA -->
             <div class="cta-first center">
-                <a href="https://mr-bao.simplywebshop.ch/menu">
+                <a href="https://mr-bao.simplywebshop.ch">
                     <button>Bestelle Dein Essen!</button>
                 </a>
             </div>
@@ -212,10 +213,15 @@ Version 1.0
                         </a>
                     </div>
                 </div>
-                <div class="cont50img mittagsbuffetimg"></div>
+                <div class="cont50img mittagsbuffetimg">
+                    <img src="img/mr-bao-platzhalter.webp" alt="mr. bao standort marker">
+                    <button class="mpreis">für 15.–</button>
+                </div>
             </div>
             <div class="cont50">
-                <div class="cont50img mittagsbuffetimg"></div>
+                <div class="cont50img mittagsbuffetimg">
+                    <img src="img/mr-bao-platzhalter.webp" alt="mr. bao standort marker">
+                </div>
                 <div class="cont50text">
                     <h3>Gruppenangebote</h3>
                     <p>
@@ -238,7 +244,6 @@ Version 1.0
             <h1 class="big">Asian <br> Catering</h1>
             <div class="cont50">
                 <div class="cont50text">
-                    <h3>Mittagsbuffet</h3>
                     <p>
                         Peppen Sie Ihre Events auf, ob Firmenparty oder Vereinsessen, mit einem Schuss asiatischer Küche von Mr. Bao! Wir garantieren für glückliche Gäste mit vollen Bäuchen dank frisch zubereiteter Asiatischer-Köstlichkeiten.
                         <br><br>
@@ -251,7 +256,9 @@ Version 1.0
                         </a>
                     </div>
                 </div>
-                <div class="cont50img mittagsbuffetimg"></div>
+                <div class="cont50img mittagsbuffetimg">
+                    <img src="img/mr-bao-platzhalter.webp" alt="mr. bao standort marker">
+                </div>
             </div>
             <img src="img/bg-orange-nord.svg" alt="bg">
         </div>
@@ -260,28 +267,111 @@ Version 1.0
         <div class="mrbao positiv">
             <h1 class="big">MR. BAO</h1>
             <div class="headerintro">
-                    <h1>
-                    Hast du schon gegessen?
-                    </h1>
-                    <h2 class="headline">
-                    Das ist meistens die erste Frage die man begegnet in der asiatischen Kultur. Damit verbindet man das Wohlbefinden des Gegenübers. Deswegen haben wir uns als Ziel gesetzt mit unseren frischen und geschmacksreichen Gerichten dich nicht nur satt zu machen, sondern auch dein Wohlbefinden zu steigern. Unser Essen ist mehr als nur ein Essen!
-                    </h2>
-                </div>
-            <div class="cont100">
-                <video autoplay loop>
+                <h1>Hast du schon gegessen?</h1>
+                <h2 class="headline">
+                    Das ist meistens die erste Frage die man begegnet in der asiatischen Kultur. Damitverbindet man das Wohlbefinden des Gegenübers. Deswegen haben wir uns als Ziel gesetztmit unseren frischen und geschmacksreichen Gerichten dich nicht nur satt zu machen,sondern auch dein Wohlbefinden zu steigern. Unser Essen ist mehr als nur ein Essen!
+                </h2>
+            </div>
+            
+            <!-- Film -->
+            <video loop controls preload autoplay>
                 <source src="film/testt.mp4" type="video/mp4">
                 Dein Browser unterstützt das Video-Tag nicht.
             </video>
+
+            <!-- CTA -->
+            <div class="cta-first center">
+                <a href="https://mr-bao.simplywebshop.ch">
+                    <button>Bestelle Dein Essen!</button>
+                </a>
             </div>
         </div>
-
-
+        
     </main>
 
-    <footer>
+    <footer class="positiv">
+        <div class="footerC">
+            <div>
+                <div class="footerT">
+                    <img src="img/mr-bao-marker.svg" alt="mr. bao standort marker">
+                    <h1>Mr.Bao <br> Heerbrugg</h1>
+                </div>    
+                <ul>
+                    <li class="title">Delivery</li>
+                    <li class="subtitle">Montag </li>
+                    <li>18:00 – 21:00 Uhr</li>
+                    <li class="subtitle">Dienstag bis Freitag</li>
+                    <li>11:00 – 13:00 Uhr</li>
+                    <li>18:00 – 21:00 Uhr</li>
+                    <li class="subtitle">Samstag bis Sonntag</li>
+                    <li>17:00 – 21:00 Uhr</li>
+                </ul>
+                <ul>
+                    <li class="title">Take Away & Mittagsbuffet</li>
+                    <li class="subtitle">Montag bis Freitag </li>
+                    <li>11:00 – 13:00 Uhr</li>
+                    <li>18:00 – 21:00 Uhr</li>
+                    <li class="subtitle">Samstag bis Sonntag</li>
+                    <li>17:00 – 21:00 Uhr</li>
+                </ul>
+                <ul>
+                    <li class="title">Standort</li>
+                    <li><a href="https://maps.app.goo.gl/zUcYBBGTEFC5Jah27">Jacob Schmidheinystrasse 240 <br> 9435 Heerbrugg</a></li>
+                </ul>
+                <ul>
+                    <li class="title">Kontakt</li>
+                    <li><a href="tel:+41717220000">Telefon +41 71 722 00 00</a></li>
+                    <li><a href="mailto:heerbrugg@mr-bao.ch">heerbrugg@mr-bao.ch</a></li>     
+                </ul>
+            </div>
+            <div>
+                <div class="footerT">
+                    <img src="img/mr-bao-marker.svg" alt="mr. bao standort marker">
+                    <h1>Mr.Bao <br> Amriswil</h1>
+                </div>    
+                <ul>
+                    <li class="title">Delivery</li>
+                    <li class="subtitle">Dienstag bis Freitag: </li>
+                    <li>17:45 - 20:45  Uhr</li>
+                    <li class="subtitle">Samstag</li>
+                    <li>17:45 - 20:45 Uhr</li>
+                    <li class="subtitle">Sonntag</li>
+                    <li>17:00 – 20:450 Uhr</li>
+                </ul>
+                <ul>
+                    <li class="title">Take Away</li>
+                    <li class="subtitle">Dienstag bis Freitag: </li>
+                    <li>11.00 - 12.45 Uhr</li>
+                    <li>17:45 - 20:45 Uhr</li>
+                    <li class="subtitle">Samstag</li>
+                    <li>17:45 - 20:45 Uhr</li>
+                    <li class="subtitle">Sonntag</li>
+                    <li>17:00 – 20:450 Uhr</li>
+                </ul>
+                <ul>
+                    <li class="title">Standort</li>
+                    <li><a href="https://maps.app.goo.gl/Cv3C2G8nnrvCjzA67">Hagenwilerstrasse 2 <br> 8580 Amriswil</a></li>
+                </ul>
+                <ul>
+                    <li class="title">Kontakt</li>
+                    <li><a href="tel:+41719490000">Telefon +41 71 949 00 00</a></li>
+                    <li><a href="mailto:amriswil@mr-bao.ch">amriswil@mr-bao.ch</a></li>     
+                </ul>
+            </div>
+        </div>
+        
+        <div class="follow">
+            <h3>Follow us</h3>
+            <a href="https://www.instagram.com/mr.bao_delivery/" target="_blank">
+                <img src="img/insta.svg" alt="insta icon">
+            </a>
+            <a href="https://www.facebook.com/mrbaofood" target="_blank">
+                <img src="img/facebook.svg" alt="facebook icon">
+            </a>
+
+        </div>
 
     </footer>
-
    
     <?php require_once 'googleanalytics.php'; ?>
 </body>

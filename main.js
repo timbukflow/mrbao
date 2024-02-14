@@ -12,7 +12,7 @@ $( document ).ready(function() {
     autoplaySpeed: 2000,
     prevArrow: false,
     nextArrow: false,
-    swipe: false,
+    swipe: true,
     responsive: [
       {
         breakpoint: 1200,
