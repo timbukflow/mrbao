@@ -628,4 +628,5 @@ footer li.subtitle {
   
   /* Hero */
   header {height: 90vh;}
+  button {padding: 30px 40px;}
 }
