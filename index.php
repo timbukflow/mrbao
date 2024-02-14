@@ -182,7 +182,7 @@ Version 1.0
                         <h3>Thailändischer Crevettensalat </h3>
                         <h4>9.00 CHF</h4>
                     </div>
-                    <div class="headermenu">
+                    <div class="headermenu resp">
                         <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-gebratene-nudeln.webp" alt="mr-bao-asiatisch-take-away-bestellen-delivery-gebratene-nudeln">
                         <h3>Gebratene Nudeln </h3>
                         <h4>ab 16.00 CHF</h4>
@@ -218,9 +218,9 @@ Version 1.0
                     <button class="mpreis">für 15.–</button>
                 </div>
             </div>
-            <div class="cont50">
+            <div class="cont50 resp">
                 <div class="cont50img mittagsbuffetimg">
-                    <img src="img/mr-bao-platzhalter.webp" alt="mr. bao standort marker">
+                    <img src="img/mr-bao-asia-gruppen.webp" alt="mr-bao-asia-gruppen">
                 </div>
                 <div class="cont50text">
                     <h3>Gruppenangebote</h3>
@@ -257,7 +257,7 @@ Version 1.0
                     </div>
                 </div>
                 <div class="cont50img mittagsbuffetimg">
-                    <img src="img/mr-bao-platzhalter.webp" alt="mr. bao standort marker">
+                    <img src="img/mr-bao-asia-catering.webp" alt="mr-bao-asia-catering">
                 </div>
             </div>
             <img src="img/bg-orange-nord.svg" alt="bg">

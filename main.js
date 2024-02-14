@@ -15,16 +15,7 @@ $( document ).ready(function() {
     swipe: true,
     responsive: [
       {
-        breakpoint: 1200,
-        settings: {
-          arrows: false,
-          centerMode: true,
-          centerPadding: '150px',
-          slidesToShow: 1
-        }
-      },
-      {
-        breakpoint: 800,
+        breakpoint: 1420,
         settings: {
           arrows: false,
           centerMode: false,
