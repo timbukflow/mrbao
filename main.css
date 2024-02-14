@@ -578,9 +578,9 @@ footer li.subtitle {
 @media (max-width: 820px) {
   /* Basic */
   :root {
-    --fontsuperbig: 70px;
+    --fontsuperbig: 60px;
     --fontbig: 32px;
-    --fonttitle: 32px;
+    --fonttitle: 26px;
     --fonttext: 21px;
   }
   h1.big {margin: 70px 0 0;}
@@ -596,8 +596,8 @@ footer li.subtitle {
   .cta-first {right: 8%;left: 8%;text-align: center; bottom: 0;}
   .cta-first.center {right: 8%;left: 8%;text-align: center; bottom: 0; transform: translate(0) rotate(-5deg);}
   /* animation */
-  .chili {right: -30px; top: 40px; width: 45%;}
-  .leave01 {right: -15%;top: 45%;width: 160px;}
+  .chili {right: -50px; top: 30px; width: 45%;}
+  .leave01 {right: -15%;top: 52%;width: 160px;}
   .leave02 {display: none;}
   .leave03 {left: -70px; transform: rotate(-200deg); top: 8%; width: 150px;}
 
@@ -610,7 +610,7 @@ footer li.subtitle {
   .cont50 {flex-direction: column; padding: 15px;}
   .cont50.resp {flex-direction: column-reverse;}
   .cont50img {margin: 0 5%; width: 90%;}
-  .cont50text {padding: 20px 40px 60px;}
+  .cont50text {padding: 20px 20px 60px;}
 
   /* catering */
   .catering img.logo {width: 150px;}
