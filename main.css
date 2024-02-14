@@ -380,12 +380,16 @@ main {
   flex-direction: column;
 }
 .catering {
+  position: relative;
   background-color: var(--mrbao-orange);
   width: 100%;
   overflow: hidden;
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+.catering img {
+  width: 1;
 }
 .catering img.logo {
   width: 300px;
