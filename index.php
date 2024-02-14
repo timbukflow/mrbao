@@ -207,7 +207,7 @@ Version 1.0
                     <h3>Mittagsbuffet</h3>
                     <p>Schnappt euch euren frischen asiatischen Power-Kick in Heerbrugg! Von Montag bis Freitag verwöhnen wir euch mit unserem Asia-Mittagsbuffet. Kommt vorbei und geniesst!</p>
                     <div class="cta-second">
-                        <a href="mailto:deine-email@example.com" >
+                        <a href="mailto:hn.mai@mr-bao.ch" >
                             <img src="img/mr-bao-marker.svg" alt="mr. bao standort marker">
                             <h3>Mr.Bao <br> Heerbrugg</h3>
                         </a>
@@ -228,7 +228,7 @@ Version 1.0
                         Gemeinsam in Gruppen zu essen fördert den Teamspirit. Für Unternehmen, Workshops, Kongresse oder einfach mit Arbeitskollegen bieten wir individuelle Mittagsangebote. Interessiert?
                     </p>
                     <div class="cta-second">
-                        <a href="mailto:deine-email@example.com" >
+                        <a href="mailto:hn.mai@mr-bao.ch" >
                             <img class="mailicon" src="img/mr-bao-mail.svg" alt="mr. bao kontakt mail">
                             <h3>Anfrage an <br> Mr.Bao</h3>
                         </a>
@@ -250,7 +250,7 @@ Version 1.0
                         Machen Sie Ihr Event zum unvergesslichen Highlight – Sie planen, wir rocken die Küche!
                     </p>
                     <div class="cta-second">
-                        <a href="mailto:deine-email@example.com" >
+                        <a href="mailto:hn.mai@mr-bao.ch" >
                             <img class="mailicon" src="img/mr-bao-mail-neg.svg" alt="mr. bao mail">
                             <h3>Anfrage an <br> Mr.Bao</h3>
                         </a>
@@ -370,9 +370,7 @@ Version 1.0
             </a>
 
         </div>
-
     </footer>
    
-    <?php require_once 'googleanalytics.php'; ?>
 </body>
 </html>
