@@ -383,10 +383,10 @@ main {
   position: relative;
   background-color: var(--mrbao-orange);
   width: 100%;
-  text-align: center;
   overflow: hidden;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 .catering img {
   width: 1;
@@ -429,6 +429,10 @@ main {
 
 video {
   width: 100%;
+}
+
+img.bg {
+  width: 150%;
 }
 
 

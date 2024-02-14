@@ -189,7 +189,7 @@ Version 1.0
                     </div>
                 </div>
             </div>
-            <img src="img/bg-yellow-nord.svg" alt="bg">
+            <img class="bg" src="img/bg-yellow-nord.svg" alt="bg">
             
             <!-- CTA -->
             <div class="cta-first center">
@@ -239,7 +239,7 @@ Version 1.0
 
         <!-- Catering -->
         <div class="catering">
-            <img src="img/bg-orange-sud.svg" alt="bg">
+            <img class="bg" src="img/bg-orange-sud.svg" alt="bg">
             <img class="logo" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-logo.svg" alt="mr. bao asiatisch bestellen logo">
             <h1 class="big">Asian <br> Catering</h1>
             <div class="cont50">
@@ -260,7 +260,7 @@ Version 1.0
                     <img src="img/mr-bao-asia-catering.webp" alt="mr-bao-asia-catering">
                 </div>
             </div>
-            <img src="img/bg-orange-nord.svg" alt="bg">
+            <img class="bg" src="img/bg-orange-nord.svg" alt="bg">
         </div>
 
         <!-- über uns -->
