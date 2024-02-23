@@ -150,7 +150,7 @@ Version 1.0
         <!-- CTA -->
         <div class="cta-first">
             <a href="https://mr-bao.simplywebshop.ch">
-                <button>Bestelle Dein Essen!!</button>
+                <button>Bestelle Dein Essen!</button>
             </a>
         </div>
 
