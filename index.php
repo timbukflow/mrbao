@@ -212,7 +212,7 @@ Version 1.0
         <div class="catering">
             <img class="bg" src="img/bg-orange-sud.svg" alt="bg">
             <img class="logo" src="img/mr-bao-asiatisch-take-away-bestellen-delivery-logo.svg" alt="mr. bao asiatisch bestellen logo">
-            <h2 class="big">Asian <br> Catering</h2>
+            <h2 class="big logoresp">Asian <br> Catering</h2>
             <div class="cont50">
                 <div class="cont50text">
                     <p>
@@ -238,7 +238,7 @@ Version 1.0
         <div class="mrbao positiv">
             <h2 class="big">MR. BAO</h2>
             <div class="headerintro">
-                <h3 class="title">Hast du schon Hast du schon gegessen?</h3>
+                <h3 class="title">Hast du schon gegessen?</h3>
                 <p>
                     Das ist meistens die erste Frage, der man in der asiatischen Kultur begegnet. Man verbindet damit das Wohlbefinden des Gegenübers. Deswegen haben wir uns als Ziel gesetzt, mit unseren frischen und geschmacksreichen Gerichten dich nicht nur satt zu machen, sondern auch dein Wohlbefinden zu steigern. Unser asiatisches Essen ist mehr als nur ein warmes Essen!
                 </p>
