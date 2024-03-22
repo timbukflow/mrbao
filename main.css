@@ -70,6 +70,8 @@ h1 {
   margin: 150px 0 50px;
 }
 
+.logoresp {margin-top: 50px;}
+
 .title {
   font-size: var(--fonttitle);
   font-weight: 700;
