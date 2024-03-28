@@ -240,6 +240,7 @@ Version 1.0
         </div>
       </div>
     </section>
+    <img src="catering-assets/img/offerte_bogen.svg" loading="lazy" alt="" class="offerte_bogen">
     <section class="section catering_footer" id="kontakt">
       <div class="w-layout-blockcontainer w-container">
         <div class="catering_footer_wrapper">
