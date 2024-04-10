@@ -317,7 +317,7 @@ Version 1.0
                     <li class="subtitle">Samstag</li>
                     <li>17:45 - 20:45 Uhr</li>
                     <li class="subtitle">Sonntag</li>
-                    <li>17:00 – 20:450 Uhr</li>
+                    <li>17:00 – 20:45 Uhr</li>
                 </ul>
                 <ul>
                     <li class="ktitle">Standort</li>
