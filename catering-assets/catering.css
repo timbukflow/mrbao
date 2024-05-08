@@ -60,11 +60,7 @@ a {
 }
 
 .catering_nav {
-<<<<<<< Updated upstream
-  justify-content: space-between;
-=======
   justify-content: end;
->>>>>>> Stashed changes
   align-items: center;
   display: flex;
     position: static;
@@ -164,22 +160,14 @@ a {
 .catering_hero_title_wrapper {
   flex-flow: column;
   align-items: center;
-<<<<<<< Updated upstream
-  margin-bottom: 20px;
-=======
   margin-bottom: 80px;
->>>>>>> Stashed changes
   display: flex;
 }
 
 .catering_hero_logo {
   width: 200px;
   height: 200px;
-<<<<<<< Updated upstream
-  margin-bottom: 30px;
-=======
   margin-bottom: 15px;
->>>>>>> Stashed changes
 }
 
 .large_heading {
@@ -187,11 +175,7 @@ a {
   text-transform: uppercase;
   font-size: 50px;
   line-height: 1;
-<<<<<<< Updated upstream
-  transform: rotate(-5deg);
-=======
   transform: rotate(-3deg);
->>>>>>> Stashed changes
 }
 
 .medium_heading {
@@ -202,11 +186,7 @@ a {
 }
 
 .medium_heading.angeld {
-<<<<<<< Updated upstream
-  transform: rotate(-5deg);
-=======
   transform: rotate(-3deg);
->>>>>>> Stashed changes
 }
 
 .medium_heading.dark {
@@ -273,11 +253,8 @@ a {
   flex-flow: column;
   align-items: center;
   display: flex;
-<<<<<<< Updated upstream
-=======
   width: 20vw;
   max-width: 300px;
->>>>>>> Stashed changes
 }
 
 .small_heading {
@@ -309,18 +286,11 @@ a {
 }
 
 .section.offerte_einholen {
-<<<<<<< Updated upstream
-  margin-top: 200px;
-  margin-bottom: 200px;
-  padding: 0;
-  position: relative;
-=======
   margin-top: 100px;
   margin-bottom: 100px;
   padding: 0;
   position: relative;
   overflow: hidden;
->>>>>>> Stashed changes
 }
 
 .section.menu {
@@ -375,11 +345,6 @@ a {
 .offerte_content_wraper {
   flex-flow: column;
   align-items: center;
-<<<<<<< Updated upstream
-  padding: 25px 5vw;
-  display: flex;
-  background-color: #fffca9;
-=======
   justify-content: center;
   padding: 25px 5rem;
   display: flex;
@@ -388,7 +353,6 @@ a {
   width: 900px;
   height: 500px;
   margin: auto;
->>>>>>> Stashed changes
 }
 
 .offerte_form_wrapper {
@@ -517,11 +481,7 @@ a {
 }
 
 .catering_footer {
-<<<<<<< Updated upstream
-  background-color: #fffca9;
-=======
   background-color: #AEDA94;
->>>>>>> Stashed changes
 }
 
 .catering_footer_wrapper {
@@ -542,11 +502,7 @@ a {
 }
 
 .footer_logo_text {
-<<<<<<< Updated upstream
-  color: var(--grey);
-=======
   color: white;
->>>>>>> Stashed changes
   text-transform: uppercase;
   text-shadow: 0 5px 5px rgba(0, 0, 0, .15);
   font-size: 30px;
@@ -555,11 +511,7 @@ a {
 }
 
 .footer_logo_text_small {
-<<<<<<< Updated upstream
-  color: var(--grey);
-=======
   color: white;
->>>>>>> Stashed changes
   letter-spacing: 3px;
   text-transform: uppercase;
   text-shadow: 0 5px 5px rgba(0, 0, 0, .15);
@@ -598,14 +550,11 @@ input.offerte {
   font-size: 22px;    
 }
 
-<<<<<<< Updated upstream
-=======
 .rezension_kunde_name_wrapper {
   display: flex;
   align-items: center;
 }
 
->>>>>>> Stashed changes
 @media screen and (min-width: 1280px) {
   .menu_grid_row {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
@@ -634,8 +583,6 @@ input.offerte {
 
 @media screen and (max-width: 991px) {
     
-<<<<<<< Updated upstream
-=======
   .section {
     padding: 70px 5vw;      
   }    
@@ -646,7 +593,6 @@ input.offerte {
     padding: 25px 10vw;
   }
     
->>>>>>> Stashed changes
   .kunden_heading_wrapper, .faq-heading_fragen, .menu_section {
     grid-row-gap: 15px;
   }
@@ -787,8 +733,6 @@ input.offerte {
   input.offerte {
     font-size: 18px;    
   }
-<<<<<<< Updated upstream
-=======
     
   .event_type_wrapper {
       width: 35vw;
@@ -810,7 +754,6 @@ input.offerte {
       display: block;          
   }
     
->>>>>>> Stashed changes
 }
 
 @media screen and (max-width: 479px) {
@@ -825,10 +768,7 @@ input.offerte {
   .hide-mobile {
     display: none;
   }
-<<<<<<< Updated upstream
-=======
 
->>>>>>> Stashed changes
 }
 
 #w-node-_43bb6dca-24e5-2759-3d18-5c197557f110-f6afef33 {
