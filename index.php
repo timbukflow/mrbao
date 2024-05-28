@@ -269,8 +269,6 @@ Version 1.0
                 </div>    
                 <ul>
                     <li class="ktitle">Delivery</li>
-                    <li class="subtitle">Montag </li>
-                    <li>18:00 – 21:00 Uhr</li>
                     <li class="subtitle">Dienstag bis Freitag</li>
                     <li>11:00 – 13:00 Uhr</li>
                     <li>18:00 – 21:00 Uhr</li>
