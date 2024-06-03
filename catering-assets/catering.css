@@ -194,8 +194,7 @@ a {
 }
 
 .medium_heading.offerte {
-  color: #564a45;
-  -webkit-text-stroke-color: var(--grey);
+  color: white;
   max-width: 42ch;
 }
 
@@ -300,6 +299,7 @@ a {
   padding-right: 0;
   display: flex;
   overflow: hidden;
+  padding: 20px 5vw;
 }
 
 .event_types_text_wrapper {
@@ -348,7 +348,7 @@ a {
   justify-content: center;
   padding: 25px 5rem;
   display: flex;
-  background-color: #fffca9;
+  background-color: #AEDA94;
   border-radius: 100%;
   width: 900px;
   height: 500px;
@@ -459,6 +459,7 @@ a {
   grid-row-gap: 15px;
   justify-content: center;
   display: flex;
+  color: var(--mrbao-brown);
 }
 
 .rezesion_kunde_logo {
@@ -553,6 +554,18 @@ input.offerte {
 .rezension_kunde_name_wrapper {
   display: flex;
   align-items: center;
+}
+
+.yellow-bg {
+    background-color: var(--mrbao-yellow);
+}
+
+.light-bg {
+    background-color: var(--mrbao-light);
+}
+
+.cta-first.w-inline-block {
+    filter: drop-shadow(0px 4px 7px rgba(0, 0, 0, 0.2));
 }
 
 @media screen and (min-width: 1280px) {
@@ -898,6 +911,7 @@ html.w-mod-touch * {
   text-decoration: none;
   cursor: pointer;
   border-radius: 0;
+  overflow: visible;
 }
 input.w-button {
   -webkit-appearance: button;
