@@ -330,7 +330,9 @@ header {
   transform: translate(-50%) rotate(-5deg);
   bottom: -30px;
 }
-
+.cta-catering {
+  transform: rotate(-5deg);
+}
 .cta-second {
   display: inline-block;
 }

@@ -231,7 +231,14 @@ Version 1.0
                     <img src="img/mr-bao-asia-catering.webp" alt="mr-bao-asia-catering">
                 </div>
             </div>
+            <!-- CTA -->
+            <div class="cta-catering">
+                <a href="catering">
+                    <button>mehr zum Catering</button>
+                </a>
+            </div>
             <img class="bg" src="img/bg-orange-nord.svg" alt="bg">
+            
         </div>
 
         <!-- über uns -->
