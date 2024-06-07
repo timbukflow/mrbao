@@ -54,7 +54,7 @@ function sendInformation($data)
 
 
         // THIS IS THE EMAIL THAT SHOULD RECIEVE THE MESSAGES. CAN EVEN BE YOUR GMAIL
-        $mail->addAddress("heerbrugg@mr-bao.ch", "Catering Anfrage");
+        $mail->addAddress("catering@mr-bao.ch", "Catering Anfrage");
 
         $mail->isHTML(true);
 
