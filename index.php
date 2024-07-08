@@ -267,7 +267,7 @@ Version 1.0
         
     </main>
 
-    <footer class="positiv">
+    <footer class="positiv" id="info">
         <div class="footerC">
             <div>
                 <div class="footerT">
@@ -345,6 +345,38 @@ Version 1.0
                 <img src="img/facebook.svg" alt="facebook icon">
             </a>
 
+        </div>
+
+        <div>
+            <!-- Overlay-Hintergrund -->
+            <div id="overlay"></div>
+    
+            <!-- Pop-up-Fenster -->
+            <div id="popup">
+                <h3 class="title">
+                    Öffnungszeiten Sommerferien <br>
+                    Mittagsbuffet & Take Away <br>
+                    07. Juli bis 11. August 2024
+                </h3 class="title">
+                <ul>
+                    <li class="ktitle">Öffnungszeiten Mittag</li>
+                    <li>Montag: geschlossen</li>
+                    <li>Dienstag bis Freitag: 11.00 – 13.00</li>
+                    <li></li>
+                </ul>
+                <ul>
+                    <li class="ktitle">Öffnungszeiten Abend</li>
+                    <li>Montag: geschlossen </li>
+                    <li>Dienstag bis Freitag: 18.00 – 21.00</li>
+                    <li>Samstag bis Sonntag: 18.00 – 21.00</li>
+                </ul>
+                <ul class="last">
+                    <li class="ktitle">Delivery siehe unter <a class="pop-opentime" href="#info">Öffnungszeiten</a></li>
+                    <li>Wir wünschen euch eine schöne Sommerzeit!</li>
+                    <li>Mr. Bao Team</li>
+                </ul>
+                <button id="close-popup">okay alles klaro :)</button>
+            </div>
         </div>
     </footer>
    
