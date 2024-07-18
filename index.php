@@ -353,8 +353,12 @@ Version 1.0
     
             <!-- Pop-up-Fenster -->
             <div id="popup">
+                <h3 class="title pline">
+                    Amriswil macht Sommerferien <br>
+                    06. Juli bis 07. August 2024
+                </h3 class="title">
                 <h3 class="title">
-                    Öffnungszeiten Sommerferien <br>
+                    Heerbrugg Öffnungszeiten Sommerferien <br>
                     Mittagsbuffet & Take Away <br>
                     07. Juli bis 11. August 2024
                 </h3 class="title">

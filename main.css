@@ -542,10 +542,10 @@ footer li.subtitle {
 
 #popup {
   display: none;
-  position: fixed;
-  top: 50%;
+  position: absolute;
+  top: 5%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, 0);
   width: 660px;
   padding: 30px 50px 50px;
   background-color: var(--mrbao-yellow);
@@ -556,10 +556,10 @@ footer li.subtitle {
 }
 #popup h3 {
   line-height: 1.25;
-  margin-bottom: 50px;
+  padding-bottom: 30px;
 }
-#popup ul {
-  border-bottom: 1px solid;
+#popup ul, .pline {
+  border-bottom: 2px solid;
 }
 #popup ul.last {
   border: none;

@@ -9,6 +9,7 @@ $(document).ready(function() {
     }
 
     $('#close-popup').click(closePopup);
+    $('#overlay').click(closePopup);
     $('.pop-opentime').click(closePopup);
 
     showPopup();
