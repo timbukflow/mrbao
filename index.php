@@ -347,11 +347,10 @@ Version 1.0
 
         </div>
 
-        <div>
-            <!-- Overlay-Hintergrund -->
+        <!-- Pop-up-Fenster deaktivier
+        <div>   
             <div id="overlay"></div>
     
-            <!-- Pop-up-Fenster -->
             <div id="popup">
                 <h3 class="title pline">
                     Amriswil macht Sommerferien <br>
@@ -381,7 +380,7 @@ Version 1.0
                 </ul>
                 <button id="close-popup">okay alles klaro :)</button>
             </div>
-        </div>
+        </div> -->
     </footer>
    
 </body>
