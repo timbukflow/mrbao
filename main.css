@@ -557,7 +557,9 @@ footer li.subtitle {
 #popup h3 {
   line-height: 1.25;
   padding-bottom: 30px;
+  font-weight: 500;
 }
+
 #popup ul, .pline {
   border-bottom: 2px solid;
 }

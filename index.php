@@ -347,10 +347,21 @@ Version 1.0
 
         </div>
 
-        <!-- Pop-up-Fenster deaktivier
         <div>   
             <div id="overlay"></div>
-    
+            <div id="popup">
+                <h3 class=" pline">
+                    Unsere 🎄 Weihnachtsferien sind vom <strong>23.12.2024</strong> bis und mit <strong>01.01.2025</strong>. Ab dem <strong>02.01.2025</strong> sind wir wieder für dich da.
+                </h3 class="title">
+                <h3 class="title">
+                Wir wünschen dir frohe Festtage und einen schwungvollen Start ins neue Jahr! Dein Mr. Bao-Team
+                </h3 class="title">
+                <button id="close-popup">Okay, alles klaro 🌶  </button>
+            </div>
+        </div>
+        <!-- Pop-up-Fenster Sommerferien
+        <div>   
+            <div id="overlay"></div>
             <div id="popup">
                 <h3 class="title pline">
                     Amriswil macht Sommerferien <br>
