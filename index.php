@@ -278,17 +278,23 @@ Version 1.0
                     <li class="ktitle">Delivery</li>
                     <li class="subtitle">Dienstag bis Freitag</li>
                     <li>11:00 – 13:00 Uhr</li>
-                    <li>18:00 – 21:00 Uhr</li>
-                    <li class="subtitle">Samstag bis Sonntag</li>
+                    <li>17:30 – 21:00 Uhr</li>
+                    <li class="subtitle">Samstag</li>
                     <li>17:00 – 21:00 Uhr</li>
+                    <li class="subtitle">Sonntag</li>
+                    <li>16:30 – 20:15 Uhr</li>
                 </ul>
                 <ul>
                     <li class="ktitle">Take Away & Mittagsbuffet</li>
-                    <li class="subtitle">Montag bis Freitag </li>
+                    <li class="subtitle">Montag</li>
                     <li>11:00 – 13:00 Uhr</li>
-                    <li>18:00 – 21:00 Uhr</li>
-                    <li class="subtitle">Samstag bis Sonntag</li>
+                    <li class="subtitle">Dienstag bis Freitag </li>
+                    <li>11:00 – 13:00 Uhr</li>
+                    <li>17:30 – 21:00 Uhr</li>
+                    <li class="subtitle">Samstag</li>
                     <li>17:00 – 21:00 Uhr</li>
+                    <li class="subtitle">Sonntag</li>
+                    <li>16:30 – 20:15 Uhr</li>
                 </ul>
                 <ul>
                     <li class="ktitle">Standort</li>
