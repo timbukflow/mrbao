@@ -353,6 +353,19 @@ Version 1.0
 
         </div>
 
+       Pop-up-Fenster Betriebsferien <div>   
+            <div id="overlay"></div>
+            <div id="popup">
+                <h3 class="pline">
+                    🌴  Wir sind vom <strong>21.07.2025</strong> bis <strong>03.08.2025</strong> in den Sommerferien – kurz durchatmen, Sonne tanken, neue Rezepte träumen.
+                </h3>
+                <h3 class="title">
+                    Bleib spicy – wir freuen uns schon auf dich! Dein Mr. Bao-Team 
+                </h3>
+                <button id="close-popup">Alles klar 🌶️</button>
+            </div>
+        </div>
+
         <!-- Pop-up-Fenster Weihnachtsferien <div>   
             <div id="overlay"></div>
             <div id="popup">
@@ -365,6 +378,7 @@ Version 1.0
                 <button id="close-popup">Okay, alles klaro 🌶  </button>
             </div>
         </div> -->
+        
         <!-- Pop-up-Fenster Sommerferien
         <div>   
             <div id="overlay"></div>
