@@ -350,10 +350,10 @@ Version 1.0
             <a href="https://www.facebook.com/mrbaofood" target="_blank">
                 <img src="img/facebook.svg" alt="facebook icon">
             </a>
-
         </div>
-
-       Pop-up-Fenster Betriebsferien <div>   
+        
+        <!-- Pop-up-Fenster Betriebsferien  -->
+        <!-- <div>   
             <div id="overlay"></div>
             <div id="popup">
                 <h3 class="pline">
@@ -364,7 +364,7 @@ Version 1.0
                 </h3>
                 <button id="close-popup">Alles klar 🌶️</button>
             </div>
-        </div>
+        </div> -->
 
         <!-- Pop-up-Fenster Weihnachtsferien <div>   
             <div id="overlay"></div>
