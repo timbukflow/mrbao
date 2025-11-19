@@ -146,17 +146,17 @@ Version 1.0
                     <div class="headermenu">
                         <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-ente-kantonesische-art.webp" alt="mr-bao-asiatisch-take-away-bestellen-delivery-ente-kantonesische-art">
                         <h3>Ente nach <br>kantonesischer Art</h3>
-                        <h4>ab 22.50 CHF</h4>
+                        <h4>ab 24.00 CHF</h4>
                     </div>
                     <div class="headermenu">
                         <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-crevettensalat.webp" alt="mr-bao-asiatisch-take-away-bestellen-delivery-crevettensalat">
                         <h3>Thailändischer Crevettensalat </h3>
-                        <h4>9.00 CHF</h4>
+                        <h4>9.50 CHF</h4>
                     </div>
                     <div class="headermenu resp">
                         <img src="img/mr-bao-asiatisch-take-away-bestellen-delivery-gebratene-nudeln.webp" alt="mr-bao-asiatisch-take-away-bestellen-delivery-gebratene-nudeln">
                         <h3>Gebratene Nudeln </h3>
-                        <h4>ab 16.00 CHF</h4>
+                        <h4>ab 17.50 CHF</h4>
                     </div>
                 </div>
             </div>
@@ -186,7 +186,7 @@ Version 1.0
                 </div>
                 <div class="cont50img mittagsbuffetimg">
                     <img src="img/mr-bao-platzhalter.webp" alt="mr. bao standort marker">
-                    <button class="mpreis">für 15.–</button>
+                    <button class="mpreis">für 15.90</button>
                 </div>
             </div>
             <div class="cont50 resp">
@@ -276,6 +276,8 @@ Version 1.0
                 </div>    
                 <ul>
                     <li class="ktitle">Delivery</li>
+                    <li class="subtitle">Montag</li>
+                    <li>11:00 – 13:00 Uhr</li>
                     <li class="subtitle">Dienstag bis Freitag</li>
                     <li>11:00 – 13:00 Uhr</li>
                     <li>17:30 – 21:00 Uhr</li>
@@ -313,16 +315,16 @@ Version 1.0
                 </div>    
                 <ul>
                     <li class="ktitle">Delivery</li>
-                    <li class="subtitle">Dienstag bis Freitag: </li>
+                    <li class="subtitle">Montag bis Donnerstag</li>
+                    <li>geschlossen</li>
+                    <li class="subtitle">Freitag bis Samstag</li>
                     <li>17:45 - 20:45  Uhr</li>
-                    <li class="subtitle">Samstag</li>
-                    <li>17:45 - 20:45 Uhr</li>
                     <li class="subtitle">Sonntag</li>
                     <li>17:00 – 20:45 Uhr</li>
                 </ul>
                 <ul>
                     <li class="ktitle">Take Away</li>
-                    <li class="subtitle">Dienstag bis Freitag: </li>
+                    <li class="subtitle">Freitag</li>
                     <li>11.00 - 12.45 Uhr</li>
                     <li>17:45 - 20:45 Uhr</li>
                     <li class="subtitle">Samstag</li>
@@ -338,6 +340,14 @@ Version 1.0
                     <li class="ktitle">Kontakt</li>
                     <li><a href="tel:+41719490000">Telefon +41 71 949 00 00</a></li>
                     <li><a href="mailto:amriswil@mr-bao.ch">amriswil@mr-bao.ch</a></li>     
+                </ul>
+
+                <ul>
+                    <li class="ktitle">Fleischdeklaration</li>
+                    <li>Rindfleisch – CH</li>    
+                    <li>Poulet – CH , BRA, TH</li>
+                    <li>Ente – CHN</li>
+                    <li>Crevetten – VN</li>
                 </ul>
             </div>
         </div>
