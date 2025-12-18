@@ -472,6 +472,15 @@ footer {
   gap: 100px;
   margin: 0 20%;
 }
+
+.footerC div {
+  width: 100%;
+}
+
+.footerC p {
+  text-align: left;
+}
+
 footer h1 {
   text-align: left;
   line-height: 1;

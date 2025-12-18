@@ -11,11 +11,11 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Mr. Bao | Asian Kitchen | Take away | Asiatisch bestellen | Herrbrugg und Amriswil </title>
+    <title>Mr. Bao | Asian Kitchen | Take away | Asiatisch bestellen | Herrbrugg </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="Erleben Sie mit MR. BAO das authentische Aroma Asiens direkt im Rheintal und Thurgau. Unser Delivery- und Take-Away-Service bietet frische und gesunde asiatische Geschmackserlebnisse in Heerbrugg und Amriswil. Bestellen Sie jetzt Ihr asiatisches Take-Away und geniessen Sie die Vielfalt der asiatischen Küche bequem von zu Hause aus. Entdecken Sie auch unser Angebot für Mittagsbuffet in Heerbrugg sowie Catering-Services für Firmen- und Vereinsveranstaltungen.">
-    <meta name="keywords" content="MR. BAO, authentisches Aroma Asiens, Rheintal, Thurgau, Delivery-Service, Take-Away-Service, frisch, gesund, asiatische Geschmackserlebnisse, Heerbrugg, Amriswil, asiatisches Take-Away, Vielfalt der asiatischen Küche, Mittagsbuffet, Catering-Services, Firmenveranstaltungen, Vereinsveranstaltungen">
+    <meta name="description" content="Erleben Sie mit MR. BAO das authentische Aroma Asiens direkt im Rheintal und Thurgau. Unser Delivery- und Take-Away-Service bietet frische und gesunde asiatische Geschmackserlebnisse in Heerbrugg. Bestellen Sie jetzt Ihr asiatisches Take-Away und geniessen Sie die Vielfalt der asiatischen Küche bequem von zu Hause aus. Entdecken Sie auch unser Angebot für Mittagsbuffet in Heerbrugg sowie Catering-Services für Firmen- und Vereinsveranstaltungen.">
+    <meta name="keywords" content="MR. BAO, authentisches Aroma Asiens, Rheintal, Thurgau, Delivery-Service, Take-Away-Service, frisch, gesund, asiatische Geschmackserlebnisse, Heerbrugg, asiatisches Take-Away, Vielfalt der asiatischen Küche, Mittagsbuffet, Catering-Services, Firmenveranstaltungen, Vereinsveranstaltungen">
 
     <meta name="author" content="Mr-Bao">
     <link rel="canonical" href="https://mr-bao.ch/" />
@@ -28,7 +28,7 @@ Version 1.0
     <link rel="icon" type="image/png" href="/img/favicon.png">
 
     <meta property="og:title" content="Mr. Bao | Asian Kitchen">
-    <meta property="og:description" content="Erleben Sie mit MR. BAO das authentische Aroma Asiens direkt im Rheintal und Thurgau. Unser Delivery- und Take-Away-Service bietet frische und gesunde asiatische Geschmackserlebnisse in Heerbrugg und Amriswil. Bestellen Sie jetzt Ihr asiatisches Take-Away und geniessen Sie die Vielfalt der asiatischen Küche bequem von zu Hause aus. Entdecken Sie auch unser Angebot für Mittagsbuffet in Heerbrugg sowie Catering-Services für Firmen- und Vereinsveranstaltungen.">
+    <meta property="og:description" content="Erleben Sie mit MR. BAO das authentische Aroma Asiens direkt im Rheintal und Thurgau. Unser Delivery- und Take-Away-Service bietet frische und gesunde asiatische Geschmackserlebnisse in Heerbrugg. Bestellen Sie jetzt Ihr asiatisches Take-Away und geniessen Sie die Vielfalt der asiatischen Küche bequem von zu Hause aus. Entdecken Sie auch unser Angebot für Mittagsbuffet in Heerbrugg sowie Catering-Services für Firmen- und Vereinsveranstaltungen.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://mr-bao.ch">
     <meta property="og:image" content="https://mr-bao.ch/img/og-image.jpg">
@@ -36,7 +36,7 @@ Version 1.0
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Mr. Bao | Asian Kitchen">
-    <meta name="twitter:description" content="Erleben Sie mit MR. BAO das authentische Aroma Asiens direkt im Rheintal und Thurgau. Unser Delivery- und Take-Away-Service bietet frische und gesunde asiatische Geschmackserlebnisse in Heerbrugg und Amriswil. Bestellen Sie jetzt Ihr asiatisches Take-Away und geniessen Sie die Vielfalt der asiatischen Küche bequem von zu Hause aus. Entdecken Sie auch unser Angebot für Mittagsbuffet in Heerbrugg sowie Catering-Services für Firmen- und Vereinsveranstaltungen.">
+    <meta name="twitter:description" content="Erleben Sie mit MR. BAO das authentische Aroma Asiens direkt im Rheintal und Thurgau. Unser Delivery- und Take-Away-Service bietet frische und gesunde asiatische Geschmackserlebnisse in Heerbrugg. Bestellen Sie jetzt Ihr asiatisches Take-Away und geniessen Sie die Vielfalt der asiatischen Küche bequem von zu Hause aus. Entdecken Sie auch unser Angebot für Mittagsbuffet in Heerbrugg sowie Catering-Services für Firmen- und Vereinsveranstaltungen.">
     <meta name="twitter:image" content="https://mr-bao.ch/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
@@ -60,7 +60,7 @@ Version 1.0
         "@context": "http://schema.org",
         "@type": "Organization",
         "name": "Mr. Bao - Asian Kitchen",
-        "description": "Erleben Sie mit MR. BAO das authentische Aroma Asiens direkt im Rheintal und Thurgau. Unser Delivery- und Take-Away-Service bietet frische und gesunde asiatische Geschmackserlebnisse in Heerbrugg und Amriswil. Bestellen Sie jetzt Ihr asiatisches Take-Away und geniessen Sie die Vielfalt der asiatischen Küche bequem von zu Hause aus. Entdecken Sie auch unser Angebot für Mittagsbuffet in Heerbrugg sowie Catering-Services für Firmen- und Vereinsveranstaltungen.",
+        "description": "Erleben Sie mit MR. BAO das authentische Aroma Asiens direkt im Rheintal und Thurgau. Unser Delivery- und Take-Away-Service bietet frische und gesunde asiatische Geschmackserlebnisse in Heerbrugg. Bestellen Sie jetzt Ihr asiatisches Take-Away und geniessen Sie die Vielfalt der asiatischen Küche bequem von zu Hause aus. Entdecken Sie auch unser Angebot für Mittagsbuffet in Heerbrugg sowie Catering-Services für Firmen- und Vereinsveranstaltungen.",
         "url": "https://mr-bao.ch",
         "contactPoint": {
             "@type": "ContactPoint",
@@ -97,10 +97,6 @@ Version 1.0
             <a href="https://maps.app.goo.gl/DbkCNaQ5RE7dJ1dt9" target="_blank"  class="location">
                 <img src="img/mr-bao-marker.svg" alt="mr. bao standort marker">
                 <h3>Heerbrugg</h3>
-            </a>
-            <a href="https://maps.app.goo.gl/dFuKWo15jHghgBF49" target="_blank" class="location">
-                <img src="img/mr-bao-marker.svg" alt="mr. bao standort marker">
-                <h3>Amriswil</h3>
             </a>
         </div>
     </nav>
@@ -313,42 +309,9 @@ Version 1.0
                     <img src="img/mr-bao-marker.svg" alt="mr. bao standort marker">
                     <h3 class="title">Mr.Bao <br> Amriswil</h3>
                 </div>    
-                <ul>
-                    <li class="ktitle">Delivery</li>
-                    <li class="subtitle">Montag bis Donnerstag</li>
-                    <li>geschlossen</li>
-                    <li class="subtitle">Freitag bis Samstag</li>
-                    <li>17:45 - 20:45  Uhr</li>
-                    <li class="subtitle">Sonntag</li>
-                    <li>17:00 – 20:45 Uhr</li>
-                </ul>
-                <ul>
-                    <li class="ktitle">Take Away</li>
-                    <li class="subtitle">Freitag</li>
-                    <li>11.00 - 12.45 Uhr</li>
-                    <li>17:45 - 20:45 Uhr</li>
-                    <li class="subtitle">Samstag</li>
-                    <li>17:45 - 20:45 Uhr</li>
-                    <li class="subtitle">Sonntag</li>
-                    <li>17:00 – 20:45 Uhr</li>
-                </ul>
-                <ul>
-                    <li class="ktitle">Standort</li>
-                    <li><a href="https://maps.app.goo.gl/Cv3C2G8nnrvCjzA67">Hagenwilerstrasse 2 <br> 8580 Amriswil</a></li>
-                </ul>
-                <ul>
-                    <li class="ktitle">Kontakt</li>
-                    <li><a href="tel:+41719490000">Telefon +41 71 949 00 00</a></li>
-                    <li><a href="mailto:amriswil@mr-bao.ch">amriswil@mr-bao.ch</a></li>     
-                </ul>
-
-                <ul>
-                    <li class="ktitle">Fleischdeklaration</li>
-                    <li>Rindfleisch – CH</li>    
-                    <li>Poulet – CH , BRA, TH</li>
-                    <li>Ente – CHN</li>
-                    <li>Crevetten – VN</li>
-                </ul>
+                <p>
+                    Der Standort Amriswil ist geschlossen. Besuchen Sie uns gerne in Herbrugg – wir freuen uns auf Sie!
+                </p>
             </div>
         </div>
         
@@ -376,18 +339,19 @@ Version 1.0
             </div>
         </div> -->
 
-        <!-- Pop-up-Fenster Weihnachtsferien <div>   
+        <!-- Pop-up-Fenster Weihnachtsferien  -->
+        <div>   
             <div id="overlay"></div>
             <div id="popup">
                 <h3 class=" pline">
-                    Unsere 🎄 Weihnachtsferien sind vom <strong>23.12.2024</strong> bis und mit <strong>01.01.2025</strong>. Ab dem <strong>02.01.2025</strong> sind wir wieder für dich da.
+                    Unsere 🎄 Weihnachtsferien sind vom <strong>22.12.2025</strong> bis und mit <strong>04.01.2026</strong>. Ab dem <strong>05.01.2026</strong> sind wir wieder für dich da.
                 </h3 class="title">
                 <h3 class="title">
                 Wir wünschen dir frohe Festtage und einen schwungvollen Start ins neue Jahr! Dein Mr. Bao-Team
                 </h3 class="title">
                 <button id="close-popup">Okay, alles klaro 🌶  </button>
             </div>
-        </div> -->
+        </div>
         
         <!-- Pop-up-Fenster Sommerferien
         <div>   
