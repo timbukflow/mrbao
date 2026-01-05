@@ -339,7 +339,7 @@ Version 1.0
             </div>
         </div> -->
 
-        <!-- Pop-up-Fenster Weihnachtsferien  -->
+        <!-- Pop-up-Fenster Weihnachtsferien
         <div>   
             <div id="overlay"></div>
             <div id="popup">
@@ -351,7 +351,7 @@ Version 1.0
                 </h3 class="title">
                 <button id="close-popup">Okay, alles klaro 🌶  </button>
             </div>
-        </div>
+        </div> -->
         
         <!-- Pop-up-Fenster Sommerferien
         <div>   
