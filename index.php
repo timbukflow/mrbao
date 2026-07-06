@@ -325,8 +325,9 @@ Version 1.0
             </a>
         </div>
         
-        <!-- Pop-up-Fenster Betriebsferien  -->
-        <div>   
+        <!-- Pop-up-Fenster Betriebsferien (nur bis und mit 31. Juli 2026 sichtbar) -->
+        <?php if (new DateTime('now', new DateTimeZone('Europe/Zurich')) <= new DateTime('2026-07-31 23:59:59', new DateTimeZone('Europe/Zurich'))): ?>
+        <div>
             <div id="overlay"></div>
             <div id="popup">
                 <h3 class="title pline">
@@ -343,6 +344,7 @@ Version 1.0
                 <button id="close-popup">Alles klar 🌶️</button>
             </div>
         </div>
+        <?php endif; ?>
 
         <!-- Pop-up-Fenster Weihnachtsferien
         <div>   
