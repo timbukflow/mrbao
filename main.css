@@ -564,6 +564,7 @@ footer li.subtitle {
   text-align: center;
 }
 #popup h3 {
+  font-size: 26px;
   line-height: 1.25;
   padding-bottom: 30px;
   font-weight: 500;
@@ -577,6 +578,7 @@ footer li.subtitle {
 }
 #popup li {
   line-height: 1.25;
+  font-size: 26px;
 }
 #popup li a {
   font-weight: 700;

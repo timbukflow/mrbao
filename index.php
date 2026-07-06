@@ -326,18 +326,23 @@ Version 1.0
         </div>
         
         <!-- Pop-up-Fenster Betriebsferien  -->
-        <!-- <div>   
+        <div>   
             <div id="overlay"></div>
             <div id="popup">
-                <h3 class="pline">
-                    🌴  Wir sind vom <strong>21.07.2025</strong> bis <strong>03.08.2025</strong> in den Sommerferien – kurz durchatmen, Sonne tanken, neue Rezepte träumen.
+                <h3 class="title pline">
+                    🌴  Sommer-Modus an! Vom <strong>11. – 31. Juli 2026</strong> läuft's bei uns etwas entspannter.
                 </h3>
+                <ul>
+                    <li><strong>Montag bis Freitag</strong></li>
+                    <li>11.00 – 13.00 Uhr: Take Away und Mittagsbuffet (kein Delivery)</li>
+                    <li>17.30 – 21.00 Uhr: Take Away und Delivery</li>
+                </ul>
                 <h3 class="title">
-                    Bleib spicy – wir freuen uns schon auf dich! Dein Mr. Bao-Team 
+                    Bleib spicy – wir freuen uns schon auf dich! Dein Mr. Bao-Team
                 </h3>
                 <button id="close-popup">Alles klar 🌶️</button>
             </div>
-        </div> -->
+        </div>
 
         <!-- Pop-up-Fenster Weihnachtsferien
         <div>   
